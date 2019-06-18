@@ -20,6 +20,8 @@ import android.view.Menu;
 import java.util.ArrayList;
 import java.util.List;
 
+//this is class of main activity
+
 public class MainActivity extends AppCompatActivity implements LoaderManager.LoaderCallbacks<Cursor> {
 
     private ProgressDialog progressDialog;
